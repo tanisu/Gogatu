@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BossStop
+  - Boss
+  - Harisen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UnderWall
+  - ToumeiWall
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Staff
+    uniqueID: 556306007
+    locked: 0
+  - name: Playaer
+    uniqueID: 2346728197
+    locked: 0
+  - name: UnderWall
+    uniqueID: 3316342867
+    locked: 0
+  - name: UICanvas
+    uniqueID: 3113500607
+    locked: 0
